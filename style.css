@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Poppins:wght@200&family=Roboto:wght@400&display=swap');
+
+body
+{
+    background-size: cover;
+background-position: center;
+background-size: cover;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status , #number_of_objects
+{
+font-size: 22px;
+color: black;
+font-family: 'Roboto',sans-serif;
+}
+
+canvas
+{
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;border-radius: 10px;
+margin-top: 30px;
+}
+
+#head{
+    font-family: 'Poppins';
+    font-size: 50px;
+}
